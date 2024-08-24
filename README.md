@@ -1,2 +1,2 @@
-# Miner-a-de-Datos
+# Minería de Datos
 Proyecto Minería de Datos
